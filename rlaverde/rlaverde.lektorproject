@@ -1,2 +1,18 @@
 [project]
 name = rlaverde
+
+[params]
+  githubID = "rlaverde"
+  twitterID = "rafa_laverde"
+  linkedInID = "rafaellaverde"
+  facebookID = "leafar91"
+  instagramID = "rafa_laverde"
+  telegramID = "rlaverde"
+  name = "Rafael Laverde
+  headerusername = "rlaverde"
+  headerhostname = "skynet"
+  email = "leafar91@gmail.com"
+  about = "Python Developer"
+  profilepicture = "img/rlaverde.png"
+  googleanalytics = "your_google_analytics_id"
+  comments = "False"
