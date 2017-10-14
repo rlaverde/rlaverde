@@ -1,7 +1,7 @@
 [project]
 name = rlaverde
 
-[params]
+[theme_settings]
   githubID = "rlaverde"
   twitterID = "rafa_laverde"
   linkedInID = "rafaellaverde"
