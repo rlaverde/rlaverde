@@ -1,6 +1,9 @@
 [project]
 name = rlaverde
 
+[packages]
+lektor-disqus-comments = 0.1
+
 [theme_settings]
   githubID = "rlaverde"
   twitterID = "rafa_laverde"
