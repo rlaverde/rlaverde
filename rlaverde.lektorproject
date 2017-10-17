@@ -18,7 +18,7 @@ lektor-disqus-comments = 0.1
   about = "Python Developer"
   profilepicture = "img/rlaverde.jpg"
   googleanalytics = "your_google_analytics_id"
-  comments = "False"
+  comments = "yes"
 
 [servers.production]
     target = ghpages+https://rlaverde/rlaverde.github.io
