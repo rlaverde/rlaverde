@@ -19,3 +19,6 @@ lektor-disqus-comments = 0.1
   profilepicture = "img/rlaverde.jpg"
   googleanalytics = "your_google_analytics_id"
   comments = "False"
+
+[servers.production]
+    target = ghpages+https://rlaverde/rlaverde.github.io
