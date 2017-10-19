@@ -17,7 +17,7 @@ lektor-disqus-comments = 0.1
   email = "leafar91@gmail.com"
   about = "Python Developer"
   profilepicture = "img/rlaverde.jpg"
-  googleanalytics = "your_google_analytics_id"
+  googleanalytics = "UA-108341353-1"
   comments = "yes"
 
 [servers.production]
