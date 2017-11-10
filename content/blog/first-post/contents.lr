@@ -1,4 +1,4 @@
-title: Hello Website
+title: Hello World
 ---
 pub_date: 2017-10-08
 ---
@@ -6,4 +6,5 @@ author: Rafael Laverde,,,
 ---
 body:
 
-This is an example blog post.  Not much here but that's not the point :)
+Hi, there's too much content yet, I'm testing several things with lektor
+themes, and that I'll keep me bussy for a while :)
