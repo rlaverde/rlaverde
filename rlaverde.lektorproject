@@ -21,4 +21,4 @@ lektor-disqus-comments = 0.1
   comments = "yes"
 
 [servers.production]
-    target = ghpages+https://rlaverde/rlaverde.github.io
+    target = ghpages+https://rlaverde/rlaverde.github.io?cname=rlaverde.me
