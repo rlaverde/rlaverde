@@ -1,12 +1,12 @@
 language: python
-python: 2.7
+python: 3.6
 cache:
   directories:
     - $HOME/.cache/pip
     - $HOME/.cache/lektor/builds
 install:
   - "pip install -U pip"
-  - "pip install git+https://github.com/rlaverde/lektor.git@themes#egg=Lektor"
+  - "pip install git+https://github.com/lektor/lektor.git#egg=Lektor"
 script: "lektor build"
 deploy:
   provider: script
