@@ -1,0 +1,11 @@
+_hiden: yes
+---
+name: Django Channels - WebSockets with Django
+---
+description:
+Talk during the Pycon Colombia 2017 in Bogota
+
+---
+url: /talks/django-channels/django-channels.pdf
+---
+cover_image: django-channels.png
