@@ -3,7 +3,9 @@ _hiden: yes
 name: Django Channels - WebSockets with Django
 ---
 description:
-Talk during the Pycon Colombia 2017 in Bogota
+Pycon Colombia 2017 (Bogota).
+
+Basics of django channels, how its architecture works and how to use it.
 
 ---
 url: /talks/django-channels/django-channels.pdf

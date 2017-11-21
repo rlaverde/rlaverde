@@ -3,7 +3,9 @@ _hiden: yes
 name: Git & GitHub - Share your code
 ---
 description:
-Workshop during the Software Freedom day 2014 celebrated in the Industrial University of Santander (UIS)
+(Workshop) Software Freedom day 2014 (Industrial University of Santander (UIS)).
+
+Basics about git, features, and how opensource community uses it.
 
 ---
 url: http://slides.com/rlaverde/git_github
