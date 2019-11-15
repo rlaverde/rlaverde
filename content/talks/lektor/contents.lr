@@ -1,0 +1,11 @@
+_hiden: yes
+---
+name: Build a powerful static website using Lektor
+---
+description:
+Building simple websites, like a blog, or a personal website do not require an interactive experience.
+
+---
+url: /talks/lektor/lektor.pdf
+---
+cover_image: lektor.png
