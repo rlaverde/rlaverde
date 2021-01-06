@@ -1,1 +1,3 @@
-This is my personal website, generated to https://rlaverde.github.io using [Lektor](https://www.getlektor.com/) and [Nix theme](https://github.com/rlaverde/lektor-theme-nix)
+I am fast-learner and proactive Data Engineer with a strong background on Software Development. I have experience with High-performance computing, Data analytics, back-end development, and mentoring other team members. Hands on experience on several programming languages specially Python and Scala due the exposure to the Big Data landscape.
+
+https://rlaverde.me
